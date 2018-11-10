@@ -1,4 +1,13 @@
 ﻿using System;
+using static System.Console;
+
+public class SimplePerson
+{
+    public string FirstName;
+    public string LastName;
+    public DateTime DateOfBirth;
+    
+}
 
 namespace Aufgabe_4
 {
@@ -6,7 +15,12 @@ namespace Aufgabe_4
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Person root = Familytree.BuildTree();
+
+            Person found = Familytree.Find(root);
+
+            WriteLine(found);
+            Console.WriteLine(found.FirstName);
         }
     }
 }

@@ -8,6 +8,7 @@ namespace Aufgabe_3
         {
             Console.WriteLine("Gebe eine Zahl ein:");
             int number = int.Parse(Console.ReadLine());
+            
 
             Console.WriteLine("Von welchem System möchtest du die Zahl konvertieren?");
             int fromSystem = int.Parse(Console.ReadLine());
