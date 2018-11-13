@@ -18,16 +18,11 @@ namespace Debugging
     {
         static void Main(string[] args)
         {
-            Person person1 = new Person { FirstName = "Hatice", LastName = "Tüysüz", Age=new DateTime(1996,11,11) };
-            Person person2 = new Person { FirstName = "Bilge", LastName = "Tad", Age=new DateTime(1997,07,12) };
-            Person person3 = new Person { FirstName = "Zehra", LastName = "Ünal", Age=new DateTime(1997,03,14) };
-            Person person4 = new Person { FirstName = "Muha", LastName = "Tüysüz", Age=new DateTime(2001,03,26) };
-            Person person5 = new Person { FirstName = "Sümeyra", LastName = "Kabakli", Age=new DateTime(2012,02,16) };
+            Person person1 = new Person { FirstName = "Hannah", LastName = "Wald", Age=new DateTime(1992,04,11) };
+            Person person2 = new Person { FirstName = "Lisa", LastName = "Baum", Age=new DateTime(1995,02,12) };
 
-        for(int i=0; i>=;i++)
 
-        for (DateTime=)
-        Console.WriteLine();
+    
 
 
             Console.WriteLine(person1);
