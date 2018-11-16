@@ -21,6 +21,7 @@ namespace Aufgabe_5._1
             Console.WriteLine(sentence);
         }
 
+
         public static string reverseLetters(string _userInput)
         {
             List<char> listOfLetters = new List<char>();
@@ -32,6 +33,7 @@ namespace Aufgabe_5._1
 
             return string.Join("", listOfLetters);
         }
+
 
         public static string reverseWords(string _userInput)
         {
