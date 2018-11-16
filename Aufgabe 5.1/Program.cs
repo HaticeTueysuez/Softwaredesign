@@ -51,6 +51,7 @@ namespace Aufgabe_5._1
             return string.Join(" ", listOfWords.ToArray());
         }
 
+
         public static string reverseSentence(string _userInput)
         {
             string reversedWord = reverseWords(_userInput);
