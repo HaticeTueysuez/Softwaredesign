@@ -7,7 +7,6 @@ namespace Aufgabe_6
     public class Program
     {
         static int score = 0;
-        static int answeredQuestions = 0;
         public static List<Quizelement> quizelementsList = new List<Quizelement>();
 
         static void Main(string[] args)
