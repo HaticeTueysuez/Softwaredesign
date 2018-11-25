@@ -1,9 +1,0 @@
-C:\Users\User\Documents\GitHub\Softwaredesign\Aufgabe 6\bin\Debug\netstandard2.0\Aufgabe 6.deps.json
-C:\Users\User\Documents\GitHub\Softwaredesign\Aufgabe 6\bin\Debug\netstandard2.0\Aufgabe 6.dll
-C:\Users\User\Documents\GitHub\Softwaredesign\Aufgabe 6\bin\Debug\netstandard2.0\Aufgabe 6.pdb
-C:\Users\User\Documents\GitHub\Softwaredesign\Aufgabe 6\obj\Debug\netstandard2.0\Aufgabe 6.csprojResolveAssemblyReference.cache
-C:\Users\User\Documents\GitHub\Softwaredesign\Aufgabe 6\obj\Debug\netstandard2.0\Aufgabe 6.csproj.CoreCompileInputs.cache
-C:\Users\User\Documents\GitHub\Softwaredesign\Aufgabe 6\obj\Debug\netstandard2.0\Aufgabe 6.AssemblyInfoInputs.cache
-C:\Users\User\Documents\GitHub\Softwaredesign\Aufgabe 6\obj\Debug\netstandard2.0\Aufgabe 6.AssemblyInfo.cs
-C:\Users\User\Documents\GitHub\Softwaredesign\Aufgabe 6\obj\Debug\netstandard2.0\Aufgabe 6.dll
-C:\Users\User\Documents\GitHub\Softwaredesign\Aufgabe 6\obj\Debug\netstandard2.0\Aufgabe 6.pdb
