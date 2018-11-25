@@ -1,0 +1,10 @@
+C:\Users\User\Documents\GitHub\Softwaredesign\Aufgabe_6\bin\Debug\netcoreapp2.0\Aufgabe_6.deps.json
+C:\Users\User\Documents\GitHub\Softwaredesign\Aufgabe_6\bin\Debug\netcoreapp2.0\Aufgabe_6.runtimeconfig.json
+C:\Users\User\Documents\GitHub\Softwaredesign\Aufgabe_6\bin\Debug\netcoreapp2.0\Aufgabe_6.runtimeconfig.dev.json
+C:\Users\User\Documents\GitHub\Softwaredesign\Aufgabe_6\bin\Debug\netcoreapp2.0\Aufgabe_6.dll
+C:\Users\User\Documents\GitHub\Softwaredesign\Aufgabe_6\bin\Debug\netcoreapp2.0\Aufgabe_6.pdb
+C:\Users\User\Documents\GitHub\Softwaredesign\Aufgabe_6\obj\Debug\netcoreapp2.0\Aufgabe_6.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\GitHub\Softwaredesign\Aufgabe_6\obj\Debug\netcoreapp2.0\Aufgabe_6.AssemblyInfoInputs.cache
+C:\Users\User\Documents\GitHub\Softwaredesign\Aufgabe_6\obj\Debug\netcoreapp2.0\Aufgabe_6.AssemblyInfo.cs
+C:\Users\User\Documents\GitHub\Softwaredesign\Aufgabe_6\obj\Debug\netcoreapp2.0\Aufgabe_6.dll
+C:\Users\User\Documents\GitHub\Softwaredesign\Aufgabe_6\obj\Debug\netcoreapp2.0\Aufgabe_6.pdb
