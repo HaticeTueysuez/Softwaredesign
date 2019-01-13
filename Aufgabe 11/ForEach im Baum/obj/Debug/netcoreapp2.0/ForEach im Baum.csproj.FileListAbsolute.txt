@@ -1,0 +1,10 @@
+C:\Users\User\Documents\GitHub\Softwaredesign\Aufgabe 11\ForEach im Baum\bin\Debug\netcoreapp2.0\ForEach im Baum.deps.json
+C:\Users\User\Documents\GitHub\Softwaredesign\Aufgabe 11\ForEach im Baum\bin\Debug\netcoreapp2.0\ForEach im Baum.runtimeconfig.json
+C:\Users\User\Documents\GitHub\Softwaredesign\Aufgabe 11\ForEach im Baum\bin\Debug\netcoreapp2.0\ForEach im Baum.runtimeconfig.dev.json
+C:\Users\User\Documents\GitHub\Softwaredesign\Aufgabe 11\ForEach im Baum\bin\Debug\netcoreapp2.0\ForEach im Baum.dll
+C:\Users\User\Documents\GitHub\Softwaredesign\Aufgabe 11\ForEach im Baum\bin\Debug\netcoreapp2.0\ForEach im Baum.pdb
+C:\Users\User\Documents\GitHub\Softwaredesign\Aufgabe 11\ForEach im Baum\obj\Debug\netcoreapp2.0\ForEach im Baum.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\GitHub\Softwaredesign\Aufgabe 11\ForEach im Baum\obj\Debug\netcoreapp2.0\ForEach im Baum.AssemblyInfoInputs.cache
+C:\Users\User\Documents\GitHub\Softwaredesign\Aufgabe 11\ForEach im Baum\obj\Debug\netcoreapp2.0\ForEach im Baum.AssemblyInfo.cs
+C:\Users\User\Documents\GitHub\Softwaredesign\Aufgabe 11\ForEach im Baum\obj\Debug\netcoreapp2.0\ForEach im Baum.dll
+C:\Users\User\Documents\GitHub\Softwaredesign\Aufgabe 11\ForEach im Baum\obj\Debug\netcoreapp2.0\ForEach im Baum.pdb

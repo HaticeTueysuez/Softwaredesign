@@ -1,0 +1,11 @@
+C:\Users\User\Documents\GitHub\Softwaredesign\Aufgabe 11\bin\Debug\netcoreapp2.0\Aufgabe 11.deps.json
+C:\Users\User\Documents\GitHub\Softwaredesign\Aufgabe 11\bin\Debug\netcoreapp2.0\Aufgabe 11.runtimeconfig.json
+C:\Users\User\Documents\GitHub\Softwaredesign\Aufgabe 11\bin\Debug\netcoreapp2.0\Aufgabe 11.runtimeconfig.dev.json
+C:\Users\User\Documents\GitHub\Softwaredesign\Aufgabe 11\bin\Debug\netcoreapp2.0\Aufgabe 11.dll
+C:\Users\User\Documents\GitHub\Softwaredesign\Aufgabe 11\bin\Debug\netcoreapp2.0\Aufgabe 11.pdb
+C:\Users\User\Documents\GitHub\Softwaredesign\Aufgabe 11\obj\Debug\netcoreapp2.0\Aufgabe 11.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\GitHub\Softwaredesign\Aufgabe 11\obj\Debug\netcoreapp2.0\Aufgabe 11.AssemblyInfoInputs.cache
+C:\Users\User\Documents\GitHub\Softwaredesign\Aufgabe 11\obj\Debug\netcoreapp2.0\Aufgabe 11.AssemblyInfo.cs
+C:\Users\User\Documents\GitHub\Softwaredesign\Aufgabe 11\obj\Debug\netcoreapp2.0\Aufgabe 11.dll
+C:\Users\User\Documents\GitHub\Softwaredesign\Aufgabe 11\obj\Debug\netcoreapp2.0\Aufgabe 11.pdb
+C:\Users\User\Documents\GitHub\Softwaredesign\Aufgabe 11\obj\Debug\netcoreapp2.0\Aufgabe 11.csprojResolveAssemblyReference.cache
