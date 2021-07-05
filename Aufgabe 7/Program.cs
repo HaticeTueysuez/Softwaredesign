@@ -16,9 +16,9 @@ namespace Aufgabe_7
             Quiz();
         }
 
-        public static void Quiz()
+        public static void Quiz() // Henri: Damit die Funktion nach beantworten oder einpflegen einer Frage wieder aufgerufen wird, sollte entweder eine Schleife oder ein rekursiver Aufruf implementiert werden
         {
-            Console.WriteLine("Möchtest du ein Spiel spielen Ja/Nein");
+            Console.WriteLine("Möchtest du ein Spiel spielen Ja/Nein"); // Henri: Besser wäre evt. eine Übersicht mit Möglichkeiten aus denen der User wählen kann (Momentan gibt es keine Möglichkeit das Programm direkt zu beenden)
             string input = Console.ReadLine();
 
             if (input.Equals("Ja"))
@@ -26,10 +26,10 @@ namespace Aufgabe_7
                 askAllQuestions(allQuestions[currentQuizelement]);
 
             }
-
+            
             else if (input.Equals("Nein"))
             {
-                Console.WriteLine("Dann musst du jetzt Fragen für mich beantworten");
+                Console.WriteLine("Dann musst du jetzt Fragen für mich beantworten"); 
                 userQuestion();
             }
 
@@ -38,14 +38,14 @@ namespace Aufgabe_7
                 Console.WriteLine("Eingabe nicht erkannt");
             }
 
-            Console.WriteLine("Wenn du wieder zurück zum Anfang willst, tippe 'weiter' ein, zum Beenden beliebige Taste eingeben");
+            Console.WriteLine("Wenn du wieder zurück zum Anfang willst, tippe 'weiter' ein, zum Beenden beliebige Taste eingeben"); //Henri: Zum Beenden des Programms wäre z.B. Environment.Exit(0) besser geeignet
             if (Console.ReadLine().Equals("weiter"))
             {
                 Quiz();
             }
         }
 
-        public static void defaultQuestions()
+        public static void defaultQuestions() // Henri: createDefaultQuestions wäre evt passender
         {
 
             allQuestions.Add(new QuizSingle("Wer war der erste Bundeskanzler", new Answer[] {
@@ -72,20 +72,20 @@ namespace Aufgabe_7
 
         public static void askAllQuestions(Quizelement quizelements)
         {
-            int counter = 0;
-            int frage = 1;
+            int counter = 0; // Henri: Falls sich "counter" auf die Anzahl aller richtig beantworteten Fragen bezieht, wäre amountOfCorrectAnsweredQuestions o.a. besser
+            int frage = 1; // Henri: Falls sich "frage" hier auf die Gesamtanzahl aller Fragen bezieht, wäre amountOfQuestions o.ä. besser. (Im Allgemeinen immer englische Bezeichner verwenden)
 
             quizelements.Show();
             Console.Write("\nBitte eine Antwort wählen: ");
             
-            int AnswerChoice = int.Parse(Console.ReadLine()) - 1;
+            int AnswerChoice = int.Parse(Console.ReadLine()) - 1; // Henri: Variablennamen sollten mit einem Kleinbuchstaben anfangen
             
             if (quizelements.answers[AnswerChoice].IsAnswerCorrect())
             {
                 counter++;
                 Console.Write("\nRichtig!\n");
             }
-
+            
             else
             {
                 Console.Write("\nFalsch\n");
@@ -93,10 +93,10 @@ namespace Aufgabe_7
             currentQuizelement++;
             frage++;
             Console.WriteLine();
-            Console.WriteLine(counter + "von" + (frage - 1) + " Fragen richtig beantwortet.");
+            Console.WriteLine(counter + "von" + (frage - 1) + " Fragen richtig beantwortet."); // Henri: Wieso wird "frage" oben der Wert eins zugewiesen wenn hier wieder eins abgezogen werden muss ? 
         }
             
-        public static void userQuestion()
+        public static void userQuestion() // Henri: addNewQuizelement wäre als Name evt. besser geeignet
         {
             Console.Write("Gebe eine neue Frage ein\n> ");
             String addUserQuestion = Console.ReadLine();
